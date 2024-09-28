@@ -16,7 +16,7 @@ eks_cluster_nodegroups = {
       role = "ng1"
     }
 
-    instance_types = ["t3.micro"]
+    instance_types = ["t3.medium"]
     capacity_type  = "ON_DEMAND"
 
     block_device_mappings = {
