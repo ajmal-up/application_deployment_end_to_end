@@ -4,7 +4,7 @@ TERRAFORM
 Here with these terraform script, we will provision a fully managed, scalable and protected EKS cluster.
 This scripts are modular, reusable and follows best practices
 
-Note:
+## Note:
   - We are creating an EKS cluster for our application in production environment. 
 
   - As we assume it is a production env, we are using ON-DEMAND instances for guaranteed computing without interruptions. If this is a test environment we will use SPOT instances, that will save the cost upto 90% compared to ON-DEMAND prices.
