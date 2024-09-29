@@ -6,6 +6,13 @@ The application is a simple REST API that we will containerize, orchestrate and 
 # README.md
 Please refer all README.md files in specific folders for detailed info.
 
+# Documentation.md
+Documentation.md file is created with Typora tool.
+Typora is a free and user friendly and one of the best documentation tool used for markdown documentation and knowledge base.
+
+
+Please open this file with typora or install 'Markdown Preview Enhanced' extension in VS code to preview Markdown files with images.
+
 # Overview
 - We will provision scalable EKS cluster for orchestration through Terraform
 - We will use Docker for conainerization
